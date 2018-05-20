@@ -1,0 +1,102 @@
+body{
+overflow-x: hidden;
+}
+
+#picturetext{
+    margin: 20px;
+    padding: 20px;
+}
+
+ .col-lg-6 img{
+    height:300;
+    width:300;
+} 
+.form-check label{
+    text-align: left;
+    font-size: 15px;
+    padding: 15 0 0 15;
+}
+.col-lg-6 p{
+    font-size: 13px
+}
+.col-lg-6 h2{
+    padding-top: 15;
+    font-size:28;
+    color: #000;
+}
+
+/* Navbar  */
+#navbar-right{
+    margin-left: 950px;
+}
+
+.navbar-nav>li:hover{
+    color: white;
+    background-color: #3333ff;
+    border-radius: 6px;
+    
+}
+
+#mycontainer {
+    background-image: url('demo/photos/tech.jpg');
+    margin:-10px 0px 0px 0px;
+}
+#mycontainer h2{
+    font-size: 40px;
+ }
+#mycontainer label{
+    color: white;
+}
+.form-fieldset {
+    background: #00cccc;
+    border: 1px solid #e9ecef;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 3rem 0rem 1rem 2rem;
+    /* margin-bottom: 1rem; */
+}
+.form-fieldset h3{
+    text-align: center;
+    color: white;
+}
+.form-fieldset button{
+    margin-top:10;
+    text-align: center;
+}
+#first{
+    background-color: #333333;
+    min-height: 125px;
+    margin: 0 0 20px 0;
+
+}
+#first p,h2,button{
+    margin-top:10px;
+    color: whitesmoke;
+    text-align: center;
+}
+#second {
+    background-color:#3333ff;
+    min-height: 125px;
+    margin: 20px 0 10px 0;
+}
+#second p,h2,button{
+    margin-top:10px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#buttons {
+    margin: 10px;
+}
+
+.footer{
+    min-height: 125px;
+}
+
+.footer button{
+    margin:10px;
+}
+
+#buttonf {
+    margin: 10px;
+}
