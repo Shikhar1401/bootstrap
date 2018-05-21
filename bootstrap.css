@@ -4,7 +4,8 @@ overflow-x: hidden;
 
 #picturetext{
     margin: 20px;
-    padding: 20px;
+    padding: 20 70 20 70;
+    
 }
 
  .col-lg-6 img{
@@ -26,9 +27,9 @@ overflow-x: hidden;
 }
 
 /* Navbar  */
-#navbar-right{
+/* #navbar-right{
     margin-left: 950px;
-}
+} */
 
 .navbar-nav>li:hover{
     color: white;
